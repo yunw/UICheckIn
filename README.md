@@ -6,5 +6,3 @@ This is a web UI automation framework based on Protractor for AngulaJS Applicati
 
 Go to fwrk directory: run script run-uitest.sh, to run with docker container, using run-in-docker.sh
 
-## Contributors
-Irene , Owen
