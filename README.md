@@ -1,6 +1,6 @@
 ## Web UI Automation framework bootstrap
 
-This is a web UI automation framework based on Protractor for AngulaJS Applications using Page Object Model, it also includes docker enabling bootstrap.
+This is a web UI automation framework based on Protractor for AngulaJS Applications using Page Object Model, it also includes docker enabled bootstrap.
 
 ## Quick Start
 
